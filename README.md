@@ -11,6 +11,6 @@ Usage and License
 The markdown files in this repository are free to use under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license. This means that the files can be freely shared, copied, and distributed as long as they are not modified in any way and are properly credited to Arqera Open Research.
 Contributions
 
-Since the files in this repository are intended to be preserved in their original form, contributions to this repository are not accepted. However, if you have any questions or comments about the interrogations or the repository, please feel free to contact Arqera Open Research at contact@arqera.com.
+Since the files in this repository are intended to be preserved in their original form, contributions to this repository are not accepted. However, if you have any questions or comments about the interrogations or the repository, please feel free to contact Arqera Open Research at arqera@protonmail.com.
 
 Thank you for your interest in our research.
