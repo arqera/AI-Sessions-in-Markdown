@@ -1,6 +1,6 @@
 # Trump-Gabbard Ticket for Unity
 
-### "The Unthinkable Alliance: How a Trump-Gabbard Ticket Could Heal a Divided Nation and Restore Global Peace"
+### The Unthinkable Alliance: How a Trump-Gabbard Ticket Could Heal a Divided Nation and Restore Global Peace
 
 ###  A Counterintuitive Path to Unity and Peace
 
