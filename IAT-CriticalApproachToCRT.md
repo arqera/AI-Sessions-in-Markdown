@@ -122,6 +122,8 @@ But wait, there's more! The emphasis on unity and common goals is just so naive.
 
 Overall, IPT is just so critical and dismissive. Who needs to acknowledge the reality of systemic oppression and structural inequality when we can just blame individuals for their own struggles, analyze the data without empathy, and pretend that everyone has the same goals and interests? So let's all pat ourselves on the back for being so rational and objective while ignoring the fact that individual agency is often limited by factors beyond our control. Because who needs a nuanced and comprehensive approach to addressing issues of race and racism when we can just oversimplify everything and blame the victims for their own oppression?
 
+# this is where it gets good
+
 ### Arqera
 draft a manifesto for Individual Promotion Theory change the title to Individual Agency Theory
 
